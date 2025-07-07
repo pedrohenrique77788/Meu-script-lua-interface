@@ -1,4 +1,4 @@
--- Carrega RedzHub (substitua pelo link do seu RedzHub final, ex: "https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/SEUARQUIVO.lua")
+-- Carrega RedzHub (substitua pelo link do seu RedzHub final, ex: "https://raw.githubusercontent.com/pedrohenrique77788/Meu-script-lua-interface/refs/heads/main/Zedocapa999.lua")
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
 
 local Window = redzlib:MakeWindow({
